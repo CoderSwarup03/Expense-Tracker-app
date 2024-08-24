@@ -26,6 +26,7 @@ const Table = ({ expenses }) => {
                 </tbody>
             </table>
             {/* Table */}
+            {/* bdhkbvhskb */}
         </div>
     )
 }
